@@ -18,20 +18,20 @@ global.APIKeys = {
 
 //Owner React
 global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '212646480851' //මෙතන number එක.
+global.REACT_NUMBER = '212661809542' //මෙතන number එක.
 
 // Other
-global.owner = ['212705570169',''] //මෙතන number එක.
-global.premium = ['212646480851','212612345678'] //මෙතන number එක.
-global.botname = 'NAMX BOT INC' //මෙතන නම.
-global.ownername = 'NAMX' //මෙතන නම.
-global.ownername = '𝘽𝙤𝙢𝙞𝙧𝙤' //මෙතන නම.
-global.group1 = 'https://chat.whatsapp.com/' //මෙතන grouplink එක.
-global.group2 = 'https://chat.whatsapp.com/' //මෙතන grouplink එක.
-global.packname = 'VIHANGA BOT INC' //මෙතන නම.
-global.cap = '*By 𝘽𝙤𝙢𝙞𝙧𝙤*' //මෙතන නම.
+global.owner = ['212661809542',''] //මෙතන number එක.
+global.premium = ['212661809542','212612345678'] //මෙතන number එක.
+global.botname = 'LO9MANE BOT INC' //මෙතන නම.
+global.ownername = 'LO9MANE BOT' //මෙතන නම.
+global.ownername = 'LO9MANE BOT' //මෙතන නම.
+global.group1 = 'https://chat.whatsapp.com/EEgbqHwIqjaKSoYo5vtkQZ/' //මෙතන grouplink එක.
+global.group2 = 'https://chat.whatsapp.com/EEgbqHwIqjaKSoYo5vtkQZ/' //මෙතන grouplink එක.
+global.packname = 'LO9MANE BOT INC' //මෙතන නම.
+global.cap = '*By LO9MANE*' //මෙතන නම.
 global.img = 'https://i.imgur.com/EisnRmc.jpeg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
-global.ytchannel = 'https://youtu.be' //මෙතන කැමති ලින්ක් එකක්.
+global.ytchannel = 'https://youtu.be/qm6ywhlvDKQ' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
 global.darahawal = '100' //මෙතන මාරු කරන්න එපා.
 global.besiAwal = '15' //මෙතන මාරු කරන්න එපා.
